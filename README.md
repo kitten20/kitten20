@@ -7,11 +7,9 @@
     </p>
         <h2>My Skills</h2>
         <p>Always trying to learn something new, in two years I managed to use:</p>
-        <img src="https://skillicons.dev/icons?i=html,css,sass,js" />
-        <br/><img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,emotion" />
-        <br/><img src="https://skillicons.dev/icons?i=webpack,vite" />
-        <br/><img src="https://skillicons.dev/icons?i=firebase,git" />
-        <br/><img src="https://skillicons.dev/icons?i=figma,postman,vscode" />
+        <img src="https://skillicons.dev/icons?i=html,css,sass,js,webpack" />
+        <br/><img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,emotion,vite" />
+        <br/><img src="https://skillicons.dev/icons?i=firebase,git,figma,postman,vscode" />
         <h2>Music</h2>
         <p>I'm really passionate in making tracks. Big fan of Breakcore, SpeedCore, Dubstep, HyperPop, House music.
             <br /> You can find my SoundCloud link downstares!
