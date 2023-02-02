@@ -35,7 +35,7 @@
         <br />
         <br />
         <img src="./images/icons/honey-horizontal.png" alt="" width="50">
-        <img src="./images/empty-space.png" alt="" width="30">
+        <img src="./images/empty-space.png" alt="" width="15">
         <a href="https://soundcloud.com/qrellyq" target="_blank">
             <img src="./images/icons/soundcloud.png" alt="" width="50">
         </a>
@@ -45,7 +45,7 @@
         <a href="https://soundcloud.com/qrellyq" target="_blank">
             <img src="./images/icons/soundcloud.png" alt="" width="50">
         </a>
-        <img src="./images/empty-space.png" alt="" width="30">
+        <img src="./images/empty-space.png" alt="" width="15">
         <img src="./images/icons/honey-horizontal.png" alt="" width="50">
     </p>
     <h2>
