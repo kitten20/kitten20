@@ -9,7 +9,7 @@
         <p>Always trying to learn something new, in two years I managed to use:</p>
         <img src="https://skillicons.dev/icons?i=html,css,sass,js" />
         <br/><img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,emotion" />
-        <br/><img src="https://skillicons.dev/icons?i=webpack,vite," />
+        <br/><img src="https://skillicons.dev/icons?i=webpack,vite" />
         <br/><img src="https://skillicons.dev/icons?i=firebase,git" />
         <br/><img src="https://skillicons.dev/icons?i=figma,postman,vscode" />
         <h2>Music</h2>
