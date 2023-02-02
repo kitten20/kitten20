@@ -10,7 +10,8 @@
         src="./images/icons/honey-horizontal.png" alt="" width="50"><img src="./images/icons/honey-horizontal.png"
         alt="" width="50"><img src="./images/icons/honey-horizontal.png" alt="" width="50"><img
         src="./images/icons/honey-horizontal.png" alt="" width="50"><img src="./images/icons/honey-horizontal.png"
-        alt="" width="50"><img src="./images/icons/honey-horizontal.png"
+        alt="" width="50"><img src="./images/icons/honey-horizontal.png" alt="" width="50"><img
+        src="./images/icons/honey-horizontal.png" alt="" width="50"><img src="./images/icons/honey-horizontal.png"
         alt="" width="50">
     <p><br />Hi, I'm Danny!
         <br />18 y.o. russian frontend-dev, who develops different stuff on React and JavaScript.
@@ -23,7 +24,8 @@
         src="./images/icons/honey-horizontal.png" alt="" width="50"><img src="./images/icons/honey-horizontal.png"
         alt="" width="50"><img src="./images/icons/honey-horizontal.png" alt="" width="50"><img
         src="./images/icons/honey-horizontal.png" alt="" width="50"><img src="./images/icons/honey-horizontal.png"
-        alt="" width="50"><img src="./images/icons/honey-horizontal.png"
+        alt="" width="50"><img src="./images/icons/honey-horizontal.png" alt="" width="50"><img
+        src="./images/icons/honey-horizontal.png" alt="" width="50"><img src="./images/icons/honey-horizontal.png"
         alt="" width="50">
     <h2>My Skills</h2>
     <p>Always trying to learn something new, in two years I managed to use:</p>
@@ -51,6 +53,10 @@
         <br />
         <br />
         <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
         <a href="https://soundcloud.com/qrellyq" target="_blank">
             <img src="./images/icons/soundcloud.png" alt="" width="50">
         </a>
@@ -61,11 +67,19 @@
             <img src="./images/icons/soundcloud.png" alt="" width="50">
         </a>
         <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
     </p>
     <h2>
         Also you can find me here!!
     </h2>
     <div>
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
         <img src="./images/icons/honey-vertical.png" alt="" width="50">
         <a href="https://discord.com/users/426331342436040704" target="_blank">
             <img src="https://skillicons.dev/icons?i=discord" width="50" />
@@ -76,6 +90,10 @@
         <a href="https://t.me/qmilly" target="_blank">
             <img src="./images/icons/telegram.png" alt="" width="50">
         </a>
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
+        <img src="./images/icons/honey-vertical.png" alt="" width="50">
         <img src="./images/icons/honey-vertical.png" alt="" width="50">
     </div>
 </div>
