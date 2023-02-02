@@ -20,10 +20,13 @@
         src="https://skillicons.dev/icons?i=html,css,sass,js" /><img src="./images/icons/honey-vertical.png"
         alt="" width="50">
     <br /><img src="./images/icons/honey-vertical.png" alt="" width="50"><img
-        src="https://skillicons.dev/icons?i=react,redux,styledcomponents,webpack" /><img
+        src="https://skillicons.dev/icons?i=react,redux,styledcomponents,emotion" /><img
         src="./images/icons/honey-vertical.png" alt="" width="50">
     <br /><img src="./images/icons/honey-vertical.png" alt="" width="50"><img
-        src="https://skillicons.dev/icons?i=firebase,git,figma,vscode" /><img
+        src="https://skillicons.dev/icons?i=firebase,git,webpack,vite" /><img
+        src="./images/icons/honey-vertical.png" alt="" width="50">
+        <br /><img src="./images/icons/honey-vertical.png" alt="" width="50"><img
+        src="https://skillicons.dev/icons?i=github,vscode,figma,postman" /><img
         src="./images/icons/honey-vertical.png" alt="" width="50">
     <br />
     <h2>Music</h2>
