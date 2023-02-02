@@ -10,6 +10,7 @@
         src="./images/icons/honey-horizontal.png" alt="" width="50"><img src="./images/icons/honey-horizontal.png"
         alt="" width="50"><img src="./images/icons/honey-horizontal.png" alt="" width="50"><img
         src="./images/icons/honey-horizontal.png" alt="" width="50"><img src="./images/icons/honey-horizontal.png"
+        alt="" width="50"><img src="./images/icons/honey-horizontal.png"
         alt="" width="50">
     <p><br />Hi, I'm Danny!
         <br />18 y.o. russian frontend-dev, who develops different stuff on React and JavaScript.
@@ -22,6 +23,7 @@
         src="./images/icons/honey-horizontal.png" alt="" width="50"><img src="./images/icons/honey-horizontal.png"
         alt="" width="50"><img src="./images/icons/honey-horizontal.png" alt="" width="50"><img
         src="./images/icons/honey-horizontal.png" alt="" width="50"><img src="./images/icons/honey-horizontal.png"
+        alt="" width="50"><img src="./images/icons/honey-horizontal.png"
         alt="" width="50">
     <h2>My Skills</h2>
     <p>Always trying to learn something new, in two years I managed to use:</p>
@@ -29,7 +31,6 @@
         alt="" width="49.3"><img src="./images/icons/honey-horizontal.png" alt="" width="49.3"><img
         src="./images/icons/honey-horizontal.png" alt="" width="49.3"><img src="./images/icons/honey-horizontal.png"
         alt="" width="49.3"><img src="./images/icons/honey-horizontal.png" alt="" width="49.3">
-    <br />
     <br /><img src="./images/icons/honey-vertical.png" alt="" width="50"> <img
         src="https://skillicons.dev/icons?i=html,css,sass,js,webpack" /><img src="./images/icons/honey-vertical.png"
         alt="" width="50">
@@ -39,7 +40,6 @@
     <br /><img src="./images/icons/honey-vertical.png" alt="" width="50"><img
         src="https://skillicons.dev/icons?i=firebase,git,figma,postman,vscode" /><img
         src="./images/icons/honey-vertical.png" alt="" width="50">
-    <br />
     <br />
     <img src="./images/icons/honey-horizontal.png" alt="" width="49.3"><img src="./images/icons/honey-horizontal.png"
         alt="" width="49.3"><img src="./images/icons/honey-horizontal.png" alt="" width="49.3"><img
