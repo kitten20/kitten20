@@ -17,13 +17,13 @@
     <h2>My Skills</h2>
     <p>Always trying to learn something new, in two years I managed to use:</p>
     <img src="./images/icons/honey-vertical.png" alt="" width="50"> <img
-        src="https://skillicons.dev/icons?i=html,css,sass,js,webpack" /><img src="./images/icons/honey-vertical.png"
+        src="https://skillicons.dev/icons?i=html,css,sass,js" /><img src="./images/icons/honey-vertical.png"
         alt="" width="50">
     <br /><img src="./images/icons/honey-vertical.png" alt="" width="50"><img
-        src="https://skillicons.dev/icons?i=react,redux,styledcomponents,emotion,vite" /><img
+        src="https://skillicons.dev/icons?i=react,redux,styledcomponents,webpack" /><img
         src="./images/icons/honey-vertical.png" alt="" width="50">
     <br /><img src="./images/icons/honey-vertical.png" alt="" width="50"><img
-        src="https://skillicons.dev/icons?i=firebase,git,figma,postman,vscode" /><img
+        src="https://skillicons.dev/icons?i=firebase,git,figma,vscode" /><img
         src="./images/icons/honey-vertical.png" alt="" width="50">
     <br />
     <h2>Music</h2>
