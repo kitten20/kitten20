@@ -1,8 +1,12 @@
 <img src="./images/background/background-banner.png" alt="">
 
 <div align="center">
-    <h1><img src="./images/icons/honey-bee-icon.png" alt="" width="30">🐝 Kitten20 🐝<img
-            src="./images/icons/honey-bee-icon.png" alt="" width="30"></h1>
+    <h1><img src="./images/icons/honey-bee-icon.png" alt="" width="30">
+        <img src="./images/icons/bee-icon.png" alt="" width="45" style="margin-right: -5px;">
+        Kitten20
+        <img src="./images/icons/bee-icon.png" alt="" width="45" style="margin-left: -5px;">
+        <img src="./images/icons/honey-bee-icon.png" alt="" width="30">
+    </h1>
     <img src="./images/icons/honey-horizontal.png" alt="" width="50"><img src="./images/icons/honey-horizontal.png"
         alt="" width="50"><img src="./images/icons/honey-horizontal.png" alt="" width="50"><img
         src="./images/icons/honey-horizontal.png" alt="" width="50"><img src="./images/icons/honey-horizontal.png"
@@ -17,17 +21,17 @@
     <h2>My Skills</h2>
     <p>Always trying to learn something new, in two years I managed to use:</p>
     <img src="./images/icons/honey-vertical.png" alt="" width="50"> <img
-        src="https://skillicons.dev/icons?i=html,css,sass,js" /><img src="./images/icons/honey-vertical.png"
-        alt="" width="50">
+        src="https://skillicons.dev/icons?i=html,css,sass,js" /><img src="./images/icons/honey-vertical.png" alt=""
+        width="50">
     <br /><img src="./images/icons/honey-vertical.png" alt="" width="50"><img
         src="https://skillicons.dev/icons?i=react,redux,styledcomponents,emotion" /><img
         src="./images/icons/honey-vertical.png" alt="" width="50">
     <br /><img src="./images/icons/honey-vertical.png" alt="" width="50"><img
-        src="https://skillicons.dev/icons?i=firebase,git,webpack,vite" /><img
-        src="./images/icons/honey-vertical.png" alt="" width="50">
-        <br /><img src="./images/icons/honey-vertical.png" alt="" width="50"><img
-        src="https://skillicons.dev/icons?i=github,vscode,figma,postman" /><img
-        src="./images/icons/honey-vertical.png" alt="" width="50">
+        src="https://skillicons.dev/icons?i=firebase,git,webpack,vite" /><img src="./images/icons/honey-vertical.png"
+        alt="" width="50">
+    <br /><img src="./images/icons/honey-vertical.png" alt="" width="50"><img
+        src="https://skillicons.dev/icons?i=github,vscode,figma,postman" /><img src="./images/icons/honey-vertical.png"
+        alt="" width="50">
     <br />
     <h2>Music</h2>
     <p>I'm really passionate in making tracks. Big fan of Breakcore, SpeedCore, Dubstep, HyperPop, House music.
@@ -35,7 +39,7 @@
         <br />
         <br />
         <img src="./images/icons/honey-horizontal.png" alt="" width="50">
-        <img src="./images/empty-space.png" alt="" width="15">
+        <img src="./images/empty-space.png" alt="" width="30">
         <a href="https://soundcloud.com/qrellyq" target="_blank">
             <img src="./images/icons/soundcloud.png" alt="" width="50">
         </a>
@@ -45,7 +49,7 @@
         <a href="https://soundcloud.com/qrellyq" target="_blank">
             <img src="./images/icons/soundcloud.png" alt="" width="50">
         </a>
-        <img src="./images/empty-space.png" alt="" width="15">
+        <img src="./images/empty-space.png" alt="" width="30">
         <img src="./images/icons/honey-horizontal.png" alt="" width="50">
     </p>
     <h2>
