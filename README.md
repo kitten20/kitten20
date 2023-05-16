@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/kitten20/kitten20/blob/main/Untitled1%20(2).gif?raw=true">
+<p align="center" width="845">
+  <img src="https://github.com/kitten20/kitten20/blob/main/Untitled1%20(2).gif?raw=true" width = "100%">
 </p>
 
 # Kitten20
