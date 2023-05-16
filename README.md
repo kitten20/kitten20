@@ -1,4 +1,4 @@
-![The Pony (no, it's not mine)]([http://url/to/img.png](https://github.com/kitten20/kitten20/blob/main/Untitled1%20(2).gif?raw=true))
+![The Pony (no, it's not mine)](https://github.com/kitten20/kitten20/blob/main/Untitled1%20(2).gif?raw=true)
 
 # Kitten20
 
