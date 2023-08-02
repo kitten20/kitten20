@@ -5,12 +5,13 @@
 # Kitten20
 
 ## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Asp.Net Core](https://img.shields.io/badge/Asp.Net%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SASS](https://img.shields.io/badge/scss-%23239120.svg?style=for-the-badge&logo=sass&logoColor=white&color=E095D9)
+![JavaScript](https://img.shields.io/badge/javascript-%23239120.svg?style=for-the-badge&logo=javascript&logoColor=white&color=%23FDCF49)
+![TypeScript](https://img.shields.io/badge/typescript-%23239120.svg?style=for-the-badge&logo=typescript&logoColor=white&color=%232CABE1)
+![React](https://img.shields.io/badge/react-%23239120.svg?style=for-the-badge&logo=react&logoColor=white&color=2AD0E5)
+![NextJS](https://img.shields.io/badge/next.js-%23239120.svg?style=for-the-badge&logo=next.js&logoColor=white&color=393955)
+![GraphQL](https://img.shields.io/badge/-GraphQL-%23239120.svg?style=for-the-badge&logo=graphql&logoColor=white&color=D523AE)
+![Firebase](https://img.shields.io/badge/firebase-%23239120.svg?style=for-the-badge&logo=firebase&logoColor=white&color=FEDA78)
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=kitten20&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)
