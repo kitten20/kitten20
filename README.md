@@ -12,6 +12,7 @@
 ![NextJS](https://img.shields.io/badge/next.js-%23239120.svg?style=for-the-badge&logo=next.js&logoColor=white&color=393955)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-%23239120.svg?style=for-the-badge&logo=graphql&logoColor=white&color=D523AE)
 ![Firebase](https://img.shields.io/badge/firebase-%23239120.svg?style=for-the-badge&logo=firebase&logoColor=white&color=FEDA78)
+![SanityIO](https://img.shields.io/badge/sanity-fffff?style=for-the-badge&color=000000&logo=sanity)
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=kitten20&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)
