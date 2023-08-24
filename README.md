@@ -1,5 +1,8 @@
 # ✨ Hi, i'm Danny Ulyanov, a.k.a. "Kitten20"! ✨
 
+## 💫 Some Stuff About Me:
+18y.o. Junior+ FrontEnd Developer and [Shitty++ BreakCore Artist🎶](https://soundcloud.com/qrellyq) from Russia.
+
 ## 💻 My Short Tech Stack:
 ![SASS](https://img.shields.io/badge/scss-%23239120.svg?style=for-the-badge&logo=sass&logoColor=white&color=E095D9)
 ![JavaScript](https://img.shields.io/badge/javascript-%23239120.svg?style=for-the-badge&logo=javascript&logoColor=white&color=%23FDCF49)
