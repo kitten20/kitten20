@@ -1,7 +1,7 @@
 # ✨ Hi, i'm Danny Ulyanov, a.k.a. "Kitten20"! ✨
 
 ## 💫 Some Stuff About Me:
-An 18-Year-Old Frontend Developer from Russia, who loves old games, delicious pizza, [Fast music🎶](https://soundcloud.com/qrellyq/popular-tracks) and Next.js!
+An 18-Year-Old Frontend Developer from Russia, who loves old games, delicious pizza and Next.js!
 
 ## 💻 My Short Tech Stack:
 ![SASS](https://img.shields.io/badge/scss-%23239120.svg?style=for-the-badge&logo=sass&logoColor=white&color=E095D9)
