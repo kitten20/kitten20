@@ -2,7 +2,7 @@
 
 ## 💫 Some Stuff About Me:
 ### An 18-Years-Old Frontend Developer from Russia, who loves old games, delicious pizza and React.js!
-### [*Checkout My Website!*](https://kitten20.vercel.app/en)
+### [*Checkout My Website!*](https://scriptkitty.ru)
 
 ## 💻 My Tech Stack:
 ![SASS](https://img.shields.io/badge/scss-%23239120.svg?style=for-the-badge&logo=sass&logoColor=white&color=E095D9)
